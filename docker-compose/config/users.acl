@@ -1,0 +1,2 @@
+user default off nopass ~* +@all
+user local_redis on +@all ~* &* >redis_password
